@@ -61,4 +61,7 @@ Aplicar buenas prácticas de arquitectura
 Dan (WeirdExcepcion)
 Frontend Developer en formación 🚀
 
+Page:
+https://weirdexcepcion.github.io/web_project_around_es/
+
 GitHub: https://github.com/WeirdExcepcion
