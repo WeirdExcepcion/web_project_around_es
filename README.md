@@ -55,9 +55,6 @@ Implementar autenticación real
 Consumir APIs externas
 Manejar estado y asincronía
 Aplicar buenas prácticas de arquitectura
-🚀 Demo
-
-👉 https://WeirdExcepcion.github.io/web_project_around_es/
 
 👨‍💻 Autor
 
